@@ -1,0 +1,7 @@
+body{
+  background-color: red;
+  box-sizing: border-box;
+  padding: 20px;
+  position: absolute;
+  float: right;
+}
